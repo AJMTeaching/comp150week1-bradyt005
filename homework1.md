@@ -26,6 +26,8 @@ def test_count_vowels():
 
 **Restrictions**: You may not use the `sorted()` or `sort()` Python built-in functions, `list.extend()`, or list concatenation (`+`) to solve this question.
 
+
+    return merged_list
 **Unit Tests**:
 ```python  
 def test_merge_lists():
